@@ -2,3 +2,6 @@
 **/install
 **/log
 **/.vscode
+**/model
+**/generation_result
+.ipynb_checkpoints
